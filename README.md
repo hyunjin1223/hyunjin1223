@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm BAEK HYUN JIN
 
 <!--
 **hyunjin1223/hyunjin1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
