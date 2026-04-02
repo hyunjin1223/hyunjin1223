@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hyunjin</h1>
 
 <h3 align="center">Welcome to my GitHub</h3>
-## Hi there, I'm HYUN JIN
+
 
 <!--
 **hyunjin1223/hyunjin1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
