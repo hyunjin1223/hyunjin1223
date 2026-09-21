@@ -4,16 +4,8 @@
 
 # Hyunjin's GitHub o(〃'▽'〃)o
 
-**😉 현진이의 깃허브 메인 페이지입니다!**
 
-<p>
-  <a href="https://github.com/hyunjin1223">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=hyunjin1223&color=181717&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<div align="left">
-
+<!-- <div align="left"> -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=d92535&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>  -->
 
 <!-- Profile Views Badge -->
